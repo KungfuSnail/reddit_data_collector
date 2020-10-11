@@ -1,2 +1,1 @@
-# getRedditData
-Collecting reddit's data using PRAW.
+Hi. Yes. It does.
