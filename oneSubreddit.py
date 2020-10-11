@@ -2,7 +2,7 @@
 import praw
 import time as tttime
 from datetime import datetime
-import xlsxwriter
+import xlsxwriter 
 
 HOW_DEEP_IN_HOT = 200
 
