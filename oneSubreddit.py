@@ -339,8 +339,9 @@ def proj(length, everyxMin, instance_attributes,check_posts_if_in_hot,list_max, 
 
 
         if i != iterations: # This prevents waiting for x seconds when we're done on the last loop.
-            tttime.sleep(sleep_x_seconds)
             print("Next cycle starts in:", sleep_x_seconds, "seconds")
+            tttime.sleep(sleep_x_seconds)
+            
 
     workbook.close()
 
