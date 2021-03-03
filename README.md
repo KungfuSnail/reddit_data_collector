@@ -1,4 +1,4 @@
-This is a reddit data collector.
+#Reddit Data Collector.
 
 This reddit data collector program uses PRAW to collect data from Reddit.
 
@@ -7,15 +7,15 @@ There are 2 parts to this program; the first part it collects the data of only o
 This program is supposed to be used easily whether you have any coding experience or not. So you only need to run the code.
 
 
-Part One: To run the program correctly for extracting the data, you need to provide the code with 5 pieces of info: 
+##Part One: To run the program correctly for extracting the data, you need to provide the code with 5 pieces of info: 
 
 1. Url of the post
 2. Duration of data collection (ex: For setting the duration for 1 hour, give 60 to the program)
 3. Data collection interval (ex: To collect data every 2 minutes, give 2)
 4. Whether you want to know if the post is in hot in every data collection interval (true for yes and false for no)
-5. The name of the output file (ex: post_332_data.xlsx)
+5. The name of the output file (ex: post_332_data)(the .xlsx extention will be added automatically)((.xlsx is the excel file extention))
 
-Part Two: For the second part:
+##Part Two: For the second part:
 
 1.Name of the Subreddit (no r/xxx just the name)
 2.Initial get: At the start, the code gets the first X posts that are already in new. You need to determine how many posts you want to gather.
