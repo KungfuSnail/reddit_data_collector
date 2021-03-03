@@ -18,10 +18,10 @@ Part One: To run the program correctly for extracting the data, you need to prov
 @
 Part Two: For the second part:
 
-1.Name of the Subreddit (no r/xxx just the name)
-2.Initial get: At the start, the code gets the first X posts that are already in new. You need to determine how many posts you want to gather.
-3.Limit of the list: The code needs to have a limit, because especially in data gatherings that have long durations there will be too many posts to collect data on and that will make the program very slow. So you need to set a limit (ex: 200 posts)
-4.Period Length: The time span of the data collection.
-5.How long should the data collection intervals be? (Ex collect data for 2 hours: input 120)
-6.Check to see if posts are in hot or not every interval. (Ex collect data every 5 minutes of that 2 hour time span: input 5)
-7.Output name. (The .xlsx will be added automatically)
+1. Name of the Subreddit (no r/xxx just the name)
+2. Initial get: At the start, the code gets the first X posts that are already in new. You need to determine how many posts you want to gather.
+3. Limit of the list: The code needs to have a limit, because especially in data gatherings that have long durations there will be too many posts to collect data on and that will make the program very slow. So you need to set a limit (ex: 200 posts)
+4. Period Length: The time span of the data collection.
+5. How long should the data collection intervals be? (Ex collect data for 2 hours: input 120)
+6. Check to see if posts are in hot or not every interval. (Ex collect data every 5 minutes of that 2 hour time span: input 5)
+7. Output name. (The .xlsx will be added automatically)
