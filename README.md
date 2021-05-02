@@ -25,3 +25,5 @@ For the second part:
 5. How long should the data collection intervals be? (Ex collect data for 2 hours: input 120)
 6. Check to see if posts are in hot or not every interval. (Ex collect data every 5 minutes of that 2 hour time span: input 5)
 7. Output name. (The .xlsx will be added automatically)
+
+If you like to know more or see screenshots visit: https://www.reddit.com/r/Python/comments/j2tabp/i_created_a_program_that_collects_the_data_of_a/
