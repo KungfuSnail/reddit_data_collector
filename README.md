@@ -1,13 +1,15 @@
-# 📢 New Reddit's Policy ⚠️
+# 📢 New Reddit's Policy 2024 ⚠️
 
 
 This repository relies on the PRAW package to interact with Reddit's API, enabling features such as accessing subreddit data, scraping posts, and managing Reddit accounts. Unfortunately, due to Reddit's policy changes, some or all features of this repository may no longer work as intended.
 
 While PRAW or this repository may no longer work seamlessly, I’ve decided to keep the repository public as a resource for anyone who might:
 
-Explore alternative APIs.
-Implement similar functionality using their own API methods.
-Build a tool using a self-hosted Reddit solution or other social platforms.
+- Explore alternative APIs.
+- Implement similar functionality using their own API methods.
+- Build a tool using a self-hosted Reddit solution or other social platforms.
+
+***
 
 # Reddit Data Collector
 
