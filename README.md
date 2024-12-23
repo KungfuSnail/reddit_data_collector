@@ -1,4 +1,4 @@
-# 📢 New Reddit's Policy 2024 ⚠️
+# 📢 Reddit's New Policy 2024 ⚠️
 
 
 This repository relies on the PRAW package to interact with Reddit's API, enabling features such as accessing subreddit data, scraping posts, and managing Reddit accounts. Unfortunately, due to Reddit's policy changes, some or all features of this repository may no longer work as intended.
